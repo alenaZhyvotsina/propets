@@ -7,7 +7,7 @@ const IMGUR_Image_UPLOAD_URL = 'https://api.imgur.com/3/upload';
 const IMGUR_AUTHORIZATION_URL = 'https://api.imgur.com/oauth2/authorize';
 
 //const BACKEND_LOSTFOUND_URL = 'http://localhost:8080/lostfound/en/v1';
-const BACKEND_LOSTFOUND_URL = 'https://zh-propets-lostfound.herokuapp.com'
+const BACKEND_LOSTFOUND_URL = 'https://zh-propets-lostfound.herokuapp.com/lostfound/en/v1';
 
 export const LOAD_PHOTO = 'LOAD_PHOTO';
 export const ERROR_LOADING = 'ERROR_LOADING';
