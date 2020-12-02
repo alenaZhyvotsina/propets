@@ -16,7 +16,7 @@ const LostFound = props => {
 
     const title = props.isFound === '1' ? foundTitle : lostTitle;
 
-    const [type, setType] = useState(ypetTypes[0]);
+    const [type, setType] = useState(petTypes[0]);
     const [breed, setBreed] = useState('');
     const [sex, setSex] = useState(sexes[0]);
     const [color, setColor] = useState('');
