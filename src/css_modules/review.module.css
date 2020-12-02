@@ -1,0 +1,55 @@
+.postBox {
+    border: 1px solid lightgray;
+    box-shadow: lightgray 2px 3px 5px;
+}
+
+.title {
+    color: rgba(76,152,149,0.85);
+}
+
+.pPoint {
+    display: inline;
+    color: rgba(76,152,149,0.85);
+    margin-right: 5px;
+}
+
+.pData {
+    display: inline;
+    color: rgba(5,18,33,0.91);
+}
+
+.pUserName {
+    display: block;
+    color: rgba(76,152,149,0.85);
+    font-weight: bold;
+}
+
+.pDate {
+    display: block;
+    color: gray;
+}
+
+.pContacts {
+    display: block;
+    color: rgba(76,152,149,0.85);
+    font-weight: bold;
+}
+
+.pColorBold {
+    color: rgba(76,152,149,0.85);
+    font-weight: bold;
+}
+
+.borderTop {
+    border-top: 1px solid lightgray;
+    margin: 1em;
+    padding: 1em;
+    box-sizing: border-box;
+    width: 95%;
+}
+
+.noBorder {
+    padding: 1em;
+    box-sizing: border-box;
+    width: 95%;
+}

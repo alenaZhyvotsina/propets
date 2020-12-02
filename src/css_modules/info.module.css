@@ -1,0 +1,15 @@
+.infoBox {
+    padding: 0.5em;
+    background-color: rgba(72,202,186,0.85);
+}
+
+.title {
+    color: rgba(5,18,33,0.91);
+    font-weight: 700;
+}
+
+.title:hover {
+    color: rgba(5,18,33,0.91);
+    text-decoration: none;
+    text-shadow: gray 1px 1px 10px;
+}

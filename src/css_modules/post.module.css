@@ -1,0 +1,44 @@
+.postBox {
+    border: 1px solid lightgray;
+    box-shadow: lightgray 2px 3px 5px;
+}
+
+.title {
+    color: rgba(86,172,149,1);
+}
+
+.inputStyle {
+    padding: 3px;
+    border: none;
+    border-bottom: 1px solid rgba(72,202,186,0.85);
+}
+
+.textAreaStyle {
+    padding: 2px;
+    border: 1px solid rgba(72,202,186,0.85);
+    height: 3em;
+}
+
+.textBig {
+    height: 5em;
+}
+
+.borderTop {
+    border-top: 1px solid lightgray;
+    margin: 1em;
+    padding: 1em;
+    box-sizing: border-box;
+    width: 95%;
+}
+
+.pInline {
+    display: inline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.inputContact {
+    margin: 0 1em;
+}
